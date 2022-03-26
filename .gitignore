@@ -1,0 +1,6 @@
+.idea
+*.iml  #* means all iml files
+*.xml
+/out
+
+# comment with hashtag
